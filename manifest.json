@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "FbPasClut",
+  "version": "1.1",
+
+  "description": "Removes underutilized options from Facebook home page to reduce distractions",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/"],
+      "css": ["style.css"],
+      "run_at": "document_start"
+    }
+  ]
+
+}

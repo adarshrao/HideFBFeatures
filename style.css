@@ -1,0 +1,56 @@
+/* Below two are for the newsfeed */
+
+#topnews_main_stream_408239535924329
+{
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#m_newsfeed_stream
+{
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+/* Some others */
+
+#pagelet_composer {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#homepage_panel_pagelet {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#pagelet_trending_tags_and_topics {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#pagelet_ego_pane {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+#pagelet_rhc_footer {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+
+}
+
+/* The rest */
+
+#userNav, #navItem_140472815972081, #navItem_2344061033, #navItem_2344061033, #navItem_2530096808, #navItem_1434659290104689, #navItem_140332009231, #navItem_765518473459969, #navItem_2345053339, #navItem_188833664616804, #createNav, #pagelet_canvas_nav_content, #js_2 {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
