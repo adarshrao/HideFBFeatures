@@ -2,7 +2,7 @@
 
 FBPasClut is a Firefox extension that hides underutilized items from the Facebook Homepage so that your Facebook experience is tailored to your wants
 
-Here are the hidden features :
+Here are the features hidden :
 - Newsfeed
 - Compose pagelet
 - Trending pagelet
@@ -10,6 +10,11 @@ Here are the hidden features :
 - Several navigation items from the left bar
 - Games from the right navigation bar
 
+Original Facebook
+![Original Facebook](https://i.imgur.com/5s8XF5J.png)
+
+Modified Facebook (with extension enabled)
+![Modified Facebook Homepage](https://i.imgur.com/v2fIIvj.png)
 
 # Running the extension
 
