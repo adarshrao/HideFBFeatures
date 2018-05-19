@@ -15,7 +15,8 @@ Here are the hidden features :
 
 ## The Release
 
-- You can find the current release here -
+- Download the current release as .xpi here - https://github.com/adarshrao/HideFBFeatures/releases/tag/1.1
+- Navigate to "About:Addons" in Firefox browser and 'install from file'
 
 ## From Source
 
